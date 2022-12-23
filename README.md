@@ -1,0 +1,2 @@
+# internalBase
+Internal C++ magic
